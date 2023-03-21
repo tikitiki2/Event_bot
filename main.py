@@ -17,12 +17,7 @@ global guild_id
 guild_id=int('your guild ID')
 
 apikey = "your key"
-#idk if i need this prob not
-'''async def background_task():
-    while True:
-        # Do something here
-        print("Running background task...")
-        await asyncio.sleep(60)'''
+
 
 
 @client.event
